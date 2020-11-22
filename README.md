@@ -14,6 +14,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/8radm1n/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/python.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/8radm1n/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/javascript.svg" alt="javascript" width="40" height="40"/> 
 </p>
 
 <br>
