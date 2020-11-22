@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dd_06</h1>  
-<h3 align="center">I'm Programer</h3>  
+<h3 align="center">I'm French Programer</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dd060606&color=green&style=flat-square" alt="dd060606" /> </p>  
   
