@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dd060606&color=green&style=flat-square" alt="dd060606" /> </p>  
   
-<! -- 🔭 I’m currently working on [Hariona](https://hariona.fr/)  -->
+
 <br><br>
 [![dd060606' GitHub stats](https://github-readme-stats.vercel.app/api?username=dd060606&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![dd060606' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dd060606&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
