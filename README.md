@@ -10,7 +10,7 @@
 [![dd060606' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dd060606&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <p align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw1VyIT1MsyHZcdUIgV6vO0O&ust=1611936912377000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDo4YyDv-4CFQAAAAAdAAAAABAI" alt="html5" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="html5" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   <img src="https://lh3.googleusercontent.com/proxy/suH6dY39CpfmH2PqzOSeV_fZuKJ0lto6W_O9F9UaIpAMAtFiVZQAyW1514-9rsPcwYWlb-XKp4nYB6y6OCaBvWJKvROWsylow8qmLKO_CW1bSomCFHFcIw" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/8radm1n/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/python.svg" alt="python" width="40" height="40"/> 
