@@ -6,8 +6,8 @@
   
 
 <br><br>
-[![dd060606' GitHub stats](https://github-readme-stats.vercel.app/api?username=dd060606&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![dd060606' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dd060606&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![dd060606' GitHub stats](https://github-readme-stats.vercel.app/api?username=dd060606&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![dd060606' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dd060606&hide=rich%20text%20format&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <p align="left">
   <img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="html5" width="40" height="40"/><img src="https://www.pngkey.com/png/full/674-6742434_html5-css3.png" alt="css3" width="35" height="40"/> 
