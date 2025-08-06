@@ -1,32 +1,47 @@
-<h1 align="center">Hi 👋, I'm dd_06</h1>
+<h1 align="center">Hi there 👋, I'm dd_06</h1>
+<h3 align="center">Passionate about Hacking</h3>
+
+---
+
+## 🧠 About Me
+
+- 🎯 I’m a **passionate developer and cybersecurity enthusiast** with a focus on **Bug Bounty**.
+- ⚔️ I contribute to security research in my free time.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dd060606&color=green&style=flat-square" alt="Profile Views" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" alt="Docker"/>
 </p>
 
 ---
 
-### 🔥 Stats & Activity
-<div align="center">
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dd060606&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dd060606&hide=rich%20text%20format&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dd060606&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dd060606&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-### 🚀 Tech Stack
+## 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="Java" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/8radm1n/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/python.svg" alt="Python" width="50" height="50"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" height="50"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="TypeScript" width="50" height="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50"/>  
-  <img src="https://training.objectware.fr/wp-content/uploads/2022/03/NodeJS-768x768.png" alt="Node.js" width="50" height="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>  
+  <a href="https://linkedin.com/in/dorian-desmars"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
 </p>
 
 ---
