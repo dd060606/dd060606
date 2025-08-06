@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎯 I’m a **passionate developer and cybersecurity enthusiast** with a focus on **Bug Bounty**.
+- 🎯 I’m a **passionate developer and cybersecurity enthusiast**.
 - ⚔️ I contribute to security research in my free time.
 
 ---
