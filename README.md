@@ -2,7 +2,7 @@
   <a href="./README.fr.md">🇫🇷 Lire en français</a>
 </p>
 <h1 align="center">Hi there 👋, I'm dd_06</h1>
-<h3 align="center">Passionate about Hacking</h3>
+<h3 align="center">Passionate about Hacking and Programming</h3>
 
 ---
 
