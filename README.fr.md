@@ -6,14 +6,14 @@
 
 ---
 
-## 🧠 À propos de moi
+## À propos de moi
 
-- 🎯 Je suis un développeur passionné et j'adore la cybersécurité.
-- ⚔️ Je consacre mon temps libre à la recherche en sécurité.
+- Je suis un développeur passionné et j'adore la cybersécurité.
+- Je consacre mon temps libre à la recherche en sécurité.
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dd060606&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Me contacter
+## Me contacter
 <p align="center">
   <a href="https://linkedin.com/in/dorian-desmars" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
